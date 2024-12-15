@@ -249,7 +249,7 @@ info = '''
 • <b>Username:</b> @{username}
 • <b>ID:</b> <code>{target_id}</code>
 - - - - - - - - - - - - - - - - - - - - - - - - - - 
-• <b>DB Info:Putaaaaa </b>
+• <b>DB Info:</b>
 • <b>Condition:</b> <code>[{rank}]</code> | • <b>AntiSpam:</b> <code>{antispam}</code>
 • <b>Bans:</b> <code>[{ban_text}]</code> | • <b>Credits:</b> <code>{credits}</code>
 • <b>Expiration Plan:</b> <code>{expiration_text}</code>
